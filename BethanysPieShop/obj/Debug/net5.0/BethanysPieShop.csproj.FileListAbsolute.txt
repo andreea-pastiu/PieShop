@@ -20,3 +20,14 @@ C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\refint\Betha
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.pdb
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.genruntimeconfig.cache
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\ref\BethanysPieShop.dll
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\bin\Debug\net5.0\BethanysPieShop.Views.dll
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\bin\Debug\net5.0\BethanysPieShop.Views.pdb
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.RazorAssemblyInfo.cs
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.TagHelpers.input.cache
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.TagHelpers.output.cache
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.RazorCoreGenerate.cache
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Pie\List.cshtml.g.cs
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.RazorTargetAssemblyInfo.cs
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.Views.pdb
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.csproj.CopyComplete
