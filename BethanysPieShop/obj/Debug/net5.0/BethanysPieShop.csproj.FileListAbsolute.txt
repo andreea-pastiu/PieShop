@@ -31,3 +31,6 @@ C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.RazorTargetAssemblyInfo.cs
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.Views.pdb
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.csproj.CopyComplete
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
