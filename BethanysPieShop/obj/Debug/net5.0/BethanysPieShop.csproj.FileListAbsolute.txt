@@ -34,3 +34,4 @@ C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\BethanysPieS
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Deea\LearningASPNETCore\PieShop\BethanysPieShop\bin\Debug\net5.0\libman.json
